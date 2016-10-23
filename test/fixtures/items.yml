@@ -1,0 +1,48 @@
+
+car:
+  id: 1
+  title: mustang
+  description: this is a car
+  category: 0
+  price: 20000
+  seller_name: jim
+  seller_latitude: 0
+  seller_longitude: 0
+  status: 0
+  published_date: 2016-08-20
+
+sold_clothing:
+  id: 2
+  title: tshirt
+  description: this is clothing
+  category: 1
+  price: 9.99
+  seller_name: jim
+  seller_latitude: 0
+  seller_longitude: 0
+  status: 2 #sold
+  published_date: 2016-08-20
+
+other:
+  id: 3
+  title: fish tank
+  description: this is something else
+  category: 2
+  price: 501
+  seller_name: jim
+  seller_latitude: 0
+  seller_longitude: 0
+  status: 0
+  published_date: 2016-08-20
+
+banned:
+  id: 4
+  title: rifle
+  description: this is banned
+  category: 2
+  price: 150
+  seller_name: bob
+  seller_latitude: 0
+  seller_longitude: 0
+  status: 4 #banned
+  published_date: 2016-08-20
